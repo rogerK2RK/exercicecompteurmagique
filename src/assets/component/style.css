@@ -1,0 +1,32 @@
+* {
+    color: #000;
+}
+
+div {
+    position: relative;
+    top: 45%;
+    left: 35%;
+    right: 40%;
+
+h1, p {
+    border-radius: 10px;
+}
+
+button {
+    width: 50%;
+    background-color: #497175;
+}
+
+.not-magic {
+    background-color: #FDEDEC;
+}
+
+.magic {
+    background-color: #D4F1F4;
+}
+
+.resset {
+    margin-top: 20px;
+    width: 100%;
+    background-color: #4e7549;
+}
